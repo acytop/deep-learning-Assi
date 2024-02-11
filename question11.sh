@@ -1,6 +1,7 @@
 git branch branch2
 git checkout branch2
 touch file4
-git commit -am "33"
+git add file4
+git commit -m "33"
 echo "adc" > file4
 git checkout main
