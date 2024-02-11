@@ -1,3 +1,3 @@
 git checkout branch2
-git stash apply
+git stash pop
 git commit -am "89899"
