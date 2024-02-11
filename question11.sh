@@ -4,4 +4,5 @@ touch file4
 git add file4
 git commit -m "33"
 echo "adc" > file4
+git add file4
 git checkout main
